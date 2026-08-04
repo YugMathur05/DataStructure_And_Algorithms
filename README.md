@@ -315,3 +315,15 @@ This repository is maintained as a personal learning journey. Suggestions and im
 
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
