@@ -323,6 +323,7 @@ Happy Coding! 🚀
 | ------- |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
