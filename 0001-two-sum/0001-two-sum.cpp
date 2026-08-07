@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        int n = nums.size();
         map<int,int>mp;
-        int n=nums.size();
         for(int i=0;i<n;i++)
         {
             int reqNo=target-nums[i];
@@ -10,7 +10,7 @@ public:
             {
                 return {mp[reqNo],i};
             }
-            mp[nums[i]]=i;
+                mp[nums[i]]=i;
         }
         return {-1,-1};
     }
