@@ -335,6 +335,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
+| [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -367,4 +368,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
+## String
+|  |
+| ------- |
+| [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
