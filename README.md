@@ -322,6 +322,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
@@ -332,6 +333,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
@@ -362,14 +364,20 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
