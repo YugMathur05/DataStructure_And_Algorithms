@@ -325,6 +325,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
@@ -338,6 +339,7 @@ Happy Coding! 🚀
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
@@ -371,6 +373,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
