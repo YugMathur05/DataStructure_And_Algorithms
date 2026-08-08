@@ -337,6 +337,7 @@ Happy Coding! 🚀
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
@@ -380,6 +381,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
 ## Bubble Sort
 |  |
