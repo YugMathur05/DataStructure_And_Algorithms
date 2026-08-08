@@ -2,18 +2,19 @@ class Solution {
 public:
     bool isPalindrome(string s) {
         int n=s.size();
-        string ans="";
-        for(int i=0;i<n;i++)
+        int i=0,j=n-1;
+        while(i<j)
         {
-            if((s[i]>='a' && s[i]<='z') || (s[i]>='A' && s[i]<='Z' )|| (s[i]>='0' && s[i]<='9') )
+            if(!isalnum(s[i]))i++;
+            else if(!isalnum(s[j]))j--;
+            else
             {
-                ans+=tolower(s[i]);
+                if(tolower(s[i])!=tolower(s[j]))return false;
+                i++,j--;
             }
+          
+
         }
-       
-        string x=ans;
-        reverse(x.begin(),x.end());
-        if(x==ans)return true;
-        return false;
+        return true;
     }
 };
