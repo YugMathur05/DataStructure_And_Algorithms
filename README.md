@@ -358,12 +358,14 @@ Happy Coding! 🚀
 | ------- |
 | [0136-single-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -381,6 +383,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
@@ -392,6 +395,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
 ## Bubble Sort
 |  |
