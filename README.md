@@ -399,6 +399,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
@@ -434,4 +435,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
