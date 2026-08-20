@@ -339,6 +339,7 @@ Happy Coding! 🚀
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -435,6 +436,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
