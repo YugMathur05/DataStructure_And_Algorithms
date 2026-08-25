@@ -341,6 +341,7 @@ Happy Coding! 🚀
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -377,6 +378,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
