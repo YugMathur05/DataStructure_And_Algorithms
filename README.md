@@ -449,6 +449,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
@@ -458,6 +459,7 @@ Happy Coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
