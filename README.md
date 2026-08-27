@@ -335,6 +335,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -450,6 +451,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
@@ -464,6 +466,7 @@ Happy Coding! 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
