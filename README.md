@@ -365,6 +365,7 @@ Happy Coding! 🚀
 | [0007-reverse-integer](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -372,6 +373,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
