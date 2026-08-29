@@ -366,6 +366,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2169-count-operations-to-obtain-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -449,6 +450,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2169-count-operations-to-obtain-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
