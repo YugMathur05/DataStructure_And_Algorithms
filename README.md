@@ -324,6 +324,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
@@ -348,6 +349,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
