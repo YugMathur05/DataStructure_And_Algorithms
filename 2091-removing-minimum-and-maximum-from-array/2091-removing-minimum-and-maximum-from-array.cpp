@@ -20,28 +20,12 @@ public:
             }
         }
 
-        int Remove_Front = 0;
-        int Remove_Back = 0;
-        int Remove_Both = 0;
+        int Remove_Front = max(mi_idx,mx_idx)+1;
+        int Remove_Back = n-min(mi_idx,mx_idx);
+        int Remove_Both =  min(mi_idx,mx_idx)+1 + n-max(mi_idx,mx_idx) ;
 
-        if (mi_idx > mx_idx) {
-            Remove_Front += mi_idx + 1;
-        } else {
-            Remove_Front += mx_idx + 1;
-        }
+        
 
-        if (mi_idx > mx_idx) {
-            Remove_Back += (n - mx_idx);
-        } else {
-            Remove_Back += (n - mi_idx);
-        }
-
-        if (mi_idx < mx_idx) {
-            Remove_Both += (mi_idx + 1) + (n - mx_idx );
-        } else {
-            Remove_Both += (mx_idx + 1) + (n - mi_idx);
-        }
-
-        return min(Remove_Both, min(Remove_Back, Remove_Front));
+        return min({Remove_Both,Remove_Back, Remove_Front});
     }
 };
