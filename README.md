@@ -332,6 +332,7 @@ Happy Coding! 🚀
 | [0152-maximum-product-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
@@ -382,6 +383,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -403,6 +405,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
@@ -433,11 +436,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0229-majority-element-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
