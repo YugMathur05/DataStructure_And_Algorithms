@@ -429,6 +429,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
+| [0796-rotate-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
 ## Bubble Sort
 |  |
@@ -508,4 +509,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
