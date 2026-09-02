@@ -323,6 +323,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0053-maximum-subarray) |
@@ -422,6 +423,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
@@ -499,4 +501,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
