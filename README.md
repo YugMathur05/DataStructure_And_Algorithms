@@ -376,6 +376,7 @@ Happy Coding! 🚀
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2169-count-operations-to-obtain-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
