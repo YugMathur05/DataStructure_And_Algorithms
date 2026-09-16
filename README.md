@@ -329,6 +329,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -382,6 +383,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
@@ -518,4 +520,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
