@@ -437,6 +437,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
+| [3498-reverse-degree-of-a-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -477,6 +478,7 @@ Happy Coding! 🚀
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
