@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool check(char s , stack<char>st) {
+    bool check(char s , stack<char>& st) {
         if (s == ')' && st.top() == '(' || s == '}' && st.top() == '{' ||
             s == ']' && st.top() == '[')
             return true;
