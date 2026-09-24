@@ -344,6 +344,7 @@ Happy Coding! 🚀
 | [0485-max-consecutive-ones](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -405,6 +406,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
