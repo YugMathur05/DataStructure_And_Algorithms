@@ -363,6 +363,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -419,6 +420,7 @@ Happy Coding! 🚀
 | ------- |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0229-majority-element-ii) |
@@ -450,6 +452,7 @@ Happy Coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
@@ -533,9 +536,14 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
