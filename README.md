@@ -330,6 +330,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -489,6 +490,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0503-next-greater-element-ii) |
@@ -506,6 +508,7 @@ Happy Coding! 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -546,4 +549,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0148-sort-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
