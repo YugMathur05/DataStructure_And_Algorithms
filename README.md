@@ -352,6 +352,7 @@ Happy Coding! 🚀
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -403,6 +404,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
+| [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -429,6 +431,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 ## Quicksort
 |  |
 | ------- |
@@ -443,6 +446,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
+| [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Bubble Sort
 |  |
