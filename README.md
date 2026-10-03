@@ -408,6 +408,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -451,6 +452,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Bubble Sort
@@ -471,6 +473,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0229-majority-element-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
