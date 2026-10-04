@@ -356,6 +356,7 @@ Happy Coding! 🚀
 | [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -411,6 +412,7 @@ Happy Coding! 🚀
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2540-minimum-common-value) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -474,6 +476,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0229-majority-element-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
