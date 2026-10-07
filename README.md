@@ -345,6 +345,7 @@ Happy Coding! 🚀
 | [0485-max-consecutive-ones](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -498,6 +499,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
@@ -511,6 +513,7 @@ Happy Coding! 🚀
 | [0155-min-stack](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
