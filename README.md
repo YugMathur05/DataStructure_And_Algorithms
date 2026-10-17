@@ -348,6 +348,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
