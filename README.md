@@ -388,6 +388,7 @@ Happy Coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0292-nim-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
