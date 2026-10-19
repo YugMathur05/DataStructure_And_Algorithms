@@ -351,6 +351,7 @@ Happy Coding! 🚀
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2206-divide-array-into-equal-pairs) |
@@ -446,6 +447,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0455-assign-cookies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -504,6 +506,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
