@@ -388,6 +388,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0268-missing-number) |
@@ -499,6 +500,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -614,4 +616,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
