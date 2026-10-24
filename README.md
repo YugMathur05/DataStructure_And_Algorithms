@@ -464,6 +464,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0796-rotate-string) |
@@ -575,6 +576,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0078-subsets](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -627,6 +629,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -635,6 +638,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -650,6 +654,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
