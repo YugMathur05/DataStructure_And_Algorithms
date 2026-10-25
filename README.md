@@ -527,6 +527,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0402-remove-k-digits) |
@@ -630,6 +631,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
@@ -641,6 +643,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
@@ -659,6 +662,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
