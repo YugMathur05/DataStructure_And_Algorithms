@@ -11,20 +11,34 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root,int level,vector<int>&nums)
+int levels(TreeNode*root)
+{
+    if(root==NULL)return 0;
+    return 1+max(levels(root->left),levels(root->right));
+}
+void helper(TreeNode*root,vector<int>&ans,int level,int currLevel)
+{
+    if(root==NULL)return;
+    if(currLevel==level)
     {
-        if(root==NULL)return;
-        if(level==nums.size())
-        {
-            nums.push_back(root->val);
-           
-        }
-        helper(root->right,level+1,nums);
-        helper(root->left,level+1,nums);
+        ans[level-1]=root->val;
     }
+ helper(root->left,ans,level,currLevel+1);
+ helper(root->right,ans,level,currLevel+1);
+}
+void nthLevel(TreeNode*root,vector<int>&ans)
+{
+    int n = levels(root);
+    if(root==NULL)return;
+    for(int i = 1 ; i <= n ; i++)
+    {
+        helper(root,ans,i,1);
+    }
+}
     vector<int> rightSideView(TreeNode* root) {
-        vector<int>nums;
-        helper(root,0,nums);
-        return nums;
+     int n = levels(root);
+     vector<int>ans(n);
+     nthLevel(root,ans);
+     return ans;
     }
 };
