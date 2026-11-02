@@ -643,6 +643,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -658,6 +659,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -669,6 +671,7 @@ Happy Coding! 🚀
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -687,6 +690,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0965-univalued-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
