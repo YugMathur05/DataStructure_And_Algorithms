@@ -645,6 +645,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -692,6 +693,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0965-univalued-binary-tree) |
 ## DP on Trees
 |  |
@@ -705,4 +707,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
