@@ -533,6 +533,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0155-min-stack) |
@@ -589,6 +590,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -642,6 +644,7 @@ Happy Coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0199-binary-tree-right-side-view) |
@@ -659,6 +662,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0199-binary-tree-right-side-view) |
@@ -690,6 +694,7 @@ Happy Coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0199-binary-tree-right-side-view) |
