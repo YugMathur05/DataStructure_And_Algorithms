@@ -6,34 +6,30 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    void helper(TreeNode* root, long long targetSum, int& count) {
-        if (root == NULL)
-            return;
-
-        if (root->val == targetSum) {
-            count++;
-        }
-
-        helper(root->left, targetSum - (root->val), count);
-        helper(root->right, targetSum - (root->val), count);
+    void CountPaths(TreeNode*root,long long  targetSum, long long &Count)
+    {
+        if(root==NULL)return;
+      
+        if(targetSum == root->val) Count++;
+        CountPaths(root->left,targetSum-(root->val),Count);
+        CountPaths(root->right,targetSum-(root->val),Count);
     }
-    void preOrder(TreeNode* root, long long targetSum, int& count) {
-        if (root == NULL)
-            return;
-        helper(root, targetSum, count);
-        preOrder(root->left, targetSum, count);
-        preOrder(root->right, targetSum, count);
-    }
-    int pathSum(TreeNode* root, long long targetSum) {
-        int count = 0;
+    void PreOrder(TreeNode*root,long long  targetSum, long long &Count)
+    {
+        if(root==NULL)return;
+        CountPaths(root,targetSum,Count);
+        PreOrder(root->left,targetSum,Count);
+        PreOrder(root->right,targetSum,Count);
 
-        preOrder(root, targetSum, count);
-        return count;
+    }
+    int pathSum(TreeNode* root, long long  targetSum) {
+        long long Count = 0;
+        PreOrder(root,targetSum,Count);
+        return Count;
     }
 };
