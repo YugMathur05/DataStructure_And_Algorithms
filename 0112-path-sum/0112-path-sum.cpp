@@ -6,23 +6,22 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    bool helper(TreeNode* root, int sum) {
-        if (root == NULL)
-            return false;
-        if ((root->left == NULL && root->right == NULL) && sum == root->val)
-
-            return true;
-
-        return helper(root->left, sum - (root->val)) ||
-               helper(root->right, sum - (root->val));
+    bool target(TreeNode* root, int targetSum)
+    {
+        if(root==NULL)return false;
+        if(root->left == NULL && root->right == NULL)
+        {
+            if(root->val == targetSum)return true;
+        }
+        return target(root->left,targetSum-(root->val)) || target(root->right,targetSum-(root->val));
+     
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
-        return helper(root, targetSum);
+        return target(root,targetSum);
     }
 };
