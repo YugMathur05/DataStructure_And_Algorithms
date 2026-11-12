@@ -364,6 +364,7 @@ Happy Coding! 🚀
 | [2778-sum-of-squares-of-special-elements](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
