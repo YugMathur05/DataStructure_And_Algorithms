@@ -365,6 +365,7 @@ Happy Coding! 🚀
 | [3005-count-elements-with-maximum-frequency](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -435,6 +436,7 @@ Happy Coding! 🚀
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
@@ -753,4 +755,8 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
