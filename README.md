@@ -665,6 +665,7 @@ Happy Coding! 🚀
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0965-univalued-binary-tree) |
@@ -733,6 +734,7 @@ Happy Coding! 🚀
 | [0257-binary-tree-paths](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0965-univalued-binary-tree) |
@@ -753,6 +755,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Sliding Window
