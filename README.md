@@ -481,6 +481,7 @@ Happy Coding! 🚀
 | [0925-long-pressed-name](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0925-long-pressed-name) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2418-sort-the-people](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2418-sort-the-people) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Bubble Sort
 |  |
