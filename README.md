@@ -532,6 +532,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2169-count-operations-to-obtain-zero) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/3498-reverse-degree-of-a-string) |
@@ -602,6 +603,7 @@ Happy Coding! 🚀
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/0234-palindrome-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/YugMathur05/DataStructure_And_Algorithms/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
